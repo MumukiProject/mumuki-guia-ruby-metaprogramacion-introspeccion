@@ -7,4 +7,4 @@ Por ejemplo, supongamos que queremos saber saber cosas sobre nuestros objetos:
 * si entiende un cierto mensaje
 * cual es la superclase de su clase
 
-A este tipo de preguntas se las conoce como introspección: 
+A este tipo de preguntas se las conoce como **introspección** (_introspection_): es la capacidad de averiguar información sobre nuestros objetos.  
