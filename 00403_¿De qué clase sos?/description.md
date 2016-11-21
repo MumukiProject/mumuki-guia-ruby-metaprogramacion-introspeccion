@@ -1,4 +1,4 @@
-En nuestro recorrido por el camino de la introspección, primero nos encontramos con un mensaje muy fácil: `class`, el cual nos permite saber de qué clase es un objeto. 
+En nuestro recorrido por el camino de la introspección :train:, primero nos encontramos con un mensaje muy fácil: `class`, el cual nos permite saber de qué clase es un objeto. 
 
 ```ruby
 ム "hola".class
