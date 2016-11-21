@@ -1,6 +1,6 @@
-En una aplicación que tiene un sistema de envío de notificaciones, podemos configurar el modo en que el usuario recibirá las mismas.
+_¡Pongamos a prueba todo lo visto!_
 
-Por ahora, este modo se especifica en un archivo de configuración, en la propiedad `notification_mode` de la siguiente forma:
+En una aplicación que tiene un sistema de envío de notificaciones, podemos configurar el modo en que el usuario recibirá las mismas. Por ahora, este modo se especifica en un archivo de configuración, en la propiedad `notification_mode` de la siguiente forma:
 
 * Si es `"sms"`, tenemos que instanciar un `SmsNotificationMode`
 * Si es `"facebook"`, tenemos que instanciar un `FacebookNotificationMode`
@@ -14,6 +14,5 @@ configuration.read :notification_mode
 "sms"
 ```
 
-> Agregar a la clase `Configuration` un método `read_notification_mode`, que empleado el mensaje `read`, lea la propiedad `:notification_mode`, y la convierta según la lógica detallada antes.
-> Asumir que los strings entienden un mensaje `titlecase`, que convierte su primera letra en mayúscula.
+> Agregar a la clase `Configuration` un método `read_notification_mode`, que empleando el mensaje `read`, lea la propiedad `:notification_mode`, y la convierta según la lógica detallada antes.
 
