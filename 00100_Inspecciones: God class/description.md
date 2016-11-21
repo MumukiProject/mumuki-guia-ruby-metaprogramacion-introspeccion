@@ -1,4 +1,4 @@
-¡Ahora te toca a vos! 
+_Veamos si se va entendiendo..._
 
 Queremos desarrollar algunas herramientas para inspeccionar código y obtener algunas métricas sobre su calidad. Para empezar, queremos saber si una clase es _[god class](https://sourcemaking.com/antipatterns/the-blob)_, es decir, si tiene demasiado comportamiento. 
 
