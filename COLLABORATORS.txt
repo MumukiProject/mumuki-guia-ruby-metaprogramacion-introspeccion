@@ -1,0 +1,1 @@
+Esta guía está basada en parte en https://github.com/uqbar-paco/mumuki-metaprogramacion-ruby-guia-2
