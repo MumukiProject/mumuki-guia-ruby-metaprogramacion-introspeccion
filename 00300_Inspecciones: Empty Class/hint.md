@@ -1,0 +1,3 @@
+En este caso, como queremos saber si una clase está o no vacía, tenemos que solamente mirar los métodos definidos en ella, ignorando los que vienen de las superclases o mixins.
+
+La buena noticia es que el mensaje `instance_methods` puede tomar por parámetro un flag que dice si incluir en el resultado los métodos heredados. Por defecto es `true`, pero capaz no sea lo que queremos...

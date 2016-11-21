@@ -1,0 +1,1 @@
+Finalmente, queremos saber si una clase está vacía: esto ocurre cuando no tiene ningún método declarado en ella. Agregar `empty_class?` al mixin `Inspections`
