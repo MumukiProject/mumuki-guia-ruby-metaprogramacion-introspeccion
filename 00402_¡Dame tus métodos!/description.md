@@ -1,0 +1,1 @@
+En nuestro recorrido por el camino de la introspección, primero nos topamos 

@@ -1,13 +1,8 @@
 ---
-tags:
-- metaprogramacion
-- objetos
-- basico
-- inspeccion
-- methods
+tags: []
 layout: input_right
 editor: code
-type: problem
+type: playground
 extra_visible: false
 language: 
 teacher_info: ''
