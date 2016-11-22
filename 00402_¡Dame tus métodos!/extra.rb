@@ -9,4 +9,8 @@ class TecnicoNuclear < Simpson
 end
 
 homero = TecnicoNuclear.new
+def homero.douh!
+end
+
 bart = Simpson.new
+
