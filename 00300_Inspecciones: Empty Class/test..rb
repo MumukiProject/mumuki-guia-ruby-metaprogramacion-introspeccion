@@ -28,7 +28,7 @@ describe "Inspections" do
      expect(inspector.empty_class? Foo).to be true
     end
 
-    it "una clase con un solo método no es empty class" do
+    it "una clase con un solo metodo no es empty class" do
      expect(inspector.empty_class? FooBar).to be false
     end
   end
