@@ -1,9 +1,8 @@
-El módulo Kernel entiende un mensaje `const_get` que, dado el nombre de una constante, nos devuelve su valor. Por ejemplo:
+El módulo Kernel entiende un mensaje `const_get` que, dado el nombre de una constante, nos devuelve su valor:
 
 ```ruby
 Kernel.const_get 'Math::PI'
 # => 3.141592653589793
-
 Kernel.const_get 'String'
 # => String
 ```
