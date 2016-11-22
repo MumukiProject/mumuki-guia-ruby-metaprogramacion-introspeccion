@@ -1,6 +1,6 @@
 describe '#constantize' do 
-  it { expect('Object'.constantize).eq Object }
-  it { expect('String'.constantize).eq String }
-  it { expect('Math::E'.constantize).eq Math::E }
-  it { expect('Math::PI'.constantize).eq Math::PI }
+  it { expect('Object'.constantize).to eq Object }
+  it { expect('String'.constantize).to eq String }
+  it { expect('Math::E'.constantize).to eq Math::E }
+  it { expect('Math::PI'.constantize).to eq Math::PI }
 end
