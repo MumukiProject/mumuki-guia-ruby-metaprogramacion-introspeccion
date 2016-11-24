@@ -7,6 +7,6 @@ true
 false
 ```
 
-Y si estás pensando que `respond_to` hace algo parecido a `methods.include? mensaje`, la respuesta es:  esperanos un par de ejercicios más :stuck_out_tongue_winking_eye:
+Y si estás pensando que `respond_to` hace algo parecido a `methods.include? mensaje`, la respuesta es:  _esperanos un par de ejercicios más :stuck_out_tongue_winking_eye:_
 
 > Probá `respond_to` en la consola
