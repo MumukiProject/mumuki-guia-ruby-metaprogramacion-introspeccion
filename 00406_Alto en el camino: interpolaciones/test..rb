@@ -10,7 +10,7 @@ describe 'troy' do
     expect(troy.presentacion.include? 'Tal vez me recuerden de peliculas como').to be true
   end
 
-  it 'la presentación incluye películas de troy ' do
+  it 'la presentacion incluye películas de troy ' do
     p = troy.presentacion
     expect(peliculas.any? { |it| p.include? it  }).to be true
   end
