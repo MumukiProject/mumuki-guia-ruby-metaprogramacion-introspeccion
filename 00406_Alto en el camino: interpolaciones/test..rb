@@ -6,7 +6,7 @@ describe 'troy' do
     end
   end
   
-  it 'la presentación incluye la intro ' do 
+  it 'la presentacion incluye la intro ' do 
     expect(troy.presentacion.include? 'Tal vez me recuerden de peliculas como').to be true
   end
 
